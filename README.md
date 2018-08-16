@@ -5,3 +5,5 @@ This is my resume. It's avaialble as a [PDF](https://github.com/akozlik/resume/b
 This project original forked from the generous [Joey Lorich](https://github.com/jlorich/resume).
 
 For more information on LaTeX and how to build the resulting pdfs see the project website [here](http://www.latex-project.org/).
+
+Command can be run as `xelatex filename.tex`
